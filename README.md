@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jommElpedes
 - 👀 I’m interested in Software and Web Development
-- 🌱 I’m currently learning new things and want to learn more and more.
+- 🌱 I’m currently learning new things and want to learn more and more. . . . 
 - 💞️ I’m looking to collaborate on good humans :-)
 - 📫 email me at: elpedesjommel@gmail.com
 
